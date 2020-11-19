@@ -1,0 +1,5 @@
+{
+    "require": {
+        "amphp/websocket-client": "^1.0"
+    }
+}
